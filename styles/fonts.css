@@ -6,6 +6,9 @@
          url('../fonts/alk-rex-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
          url('../fonts/alk-rex-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/alk-rex-bold-webfont.svg#alk_rexbold') format('svg'); /* Legacy iOS */
+  font-weight: normal;
+         font-style: normal;
+         font-display: swap;
 }
 
 @font-face {
